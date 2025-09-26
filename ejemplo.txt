@@ -1,0 +1,47 @@
+1. Sitios web estáticos
+
+Landing page para promocionar un producto o evento, usando HTML, CSS y JavaScript.
+Portafolio personal con secciones de proyectos, contacto y animaciones CSS.
+Blog estático generado con herramientas como Jekyll o Next.js (Static Generation).
+
+2. Aplicaciones web interactivas (SPA o PWA)
+
+Aplicación de tareas (To-Do App) con React/Vue/Angular, incluyendo filtrado y almacenamiento local.
+Clon de redes sociales (por ejemplo, una interfaz tipo Twitter) consumiendo una API pública.
+Progressive Web App (PWA) para consultar el clima en tiempo real con Service Workers.
+
+
+3. Interfaces para e-commerce
+
+Carrito de compras con actualización dinámica de precios y cantidades.
+Galería de productos con filtros, paginación y búsqueda en vivo.
+Checkout responsive con validación de formularios y pasarela de pago simulada.
+
+
+4. Componentes o librerías reutilizables
+
+Sistema de diseño (Design System) con botones, modales y tablas en React o Web Components.
+Componente de calendario/datepicker personalizable.
+Slider/carousel con animaciones suaves y accesibilidad ARIA.
+
+
+5. Visualización de datos
+
+Dashboard de analítica con gráficos interactivos (D3.js, Chart.js o Recharts).
+Mapa interactivo con Leaflet o Mapbox para mostrar ubicaciones de tiendas o eventos.
+Comparador de estadísticas con filtros y actualizaciones en tiempo real vía WebSockets.
+
+
+6. Experiencias creativas
+
+Juego 2D en navegador usando Canvas o WebGL (p. ej. un “rompecabezas”).
+Animaciones avanzadas con GSAP o Framer Motion.
+Realidad aumentada en web usando WebXR.
+
+
+Tecnologías frecuentes en Front-end
+
+Lenguajes base: HTML5, CSS3 (Sass/Tailwind), JavaScript/TypeScript.
+Frameworks/Bibliotecas: React, Vue, Angular, Svelte.
+Herramientas de build: Vite, Webpack, Parcel.
+Pruebas: Jest, Cypress, Playwright.
