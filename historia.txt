@@ -1,0 +1,12 @@
+En los años 90, cuando la web surgio, todo era solo texto y pequeños enlaces de HTML, el diseño era casi inexistente y no tenia interactividad.
+Pero, para dar mayor estilo a las paginas, surge CSS, una herramienta que ayudo a separar el contenido de la presentación o el diseño.
+
+A mediados de los 96 también nace JavaScript, algo que ayudo a revolucionar la interactividad y parte de lo que conocemos como el frontend, y una mejor conexión de este con el backend. Eso si, para la época se usaba demasiado poco y tenia muchísimas limitaciones
+
+Ahora, en los 2000. AJAX logro que paginas actualizaran solo partes sin recargarse, generando mayor velocidad de búsqueda y una mejor experiencia para los usuarios, de hecho, esto dio al origen de lo que se conoció como la web 2.0. Donde los sitios se volvieron mucho mas vivos
+
+Ya para los años 2006, nacen nuevas herramientas, como jQuery, que simplificó JavaScript
+
+En general, el frontend dejo de ser solo hacer una pagina bonita, y paso a ser el desarrollo avanzado de una gran parte de las aplicaciones de navegador, que en algunos casos es la aplicación completa a partir de frontend
+
+Hoy en dia, gracias a los avances, el frontend es tan complejo como el backend.
